@@ -1,26 +1,21 @@
-👋🏽 Hi, I'm Tonny Kipchirchir Toroitich — a passionate Full-Stack Developer based in Kenya 🇰🇪
+👋🏽 I'm Tonny Kipchirchir Toroitich, a Full-Stack Developer from Kenya 🇰🇪
 🎓 Final year Computer Science student at University of Kabianga
-🌐 I build web apps using Django, Angular, Bootstrap, and REST APIs
-📱 Learning mobile development with Flutter and Kotlin
-🔍 Interested in:
+🛠️ I build with Django, Angular, REST APIs, and Bootstrap
+📱 Exploring Flutter and Kotlin for mobile apps
 
-Building real-world solutions (e.g. Kazilink — a neighborhood services directory)
+💼 Currently working on:
 
-Automation, AI tools, and UI/UX optimization
+Accounting Software for small businesses
 
-Crafting clean, reusable, and scalable code
+Car Wash & Laundry check-in system
 
-💼 Currently building:
+Job Application Shortlisting Tool
 
-A powerful Accounting Software for small businesses
+✅ Built: Resume & Cover Letter Generator with interview tips
 
-A Car Wash & Laundry check-in system
+🔍 Interests: automation, scalable code, and UI/UX optimization
 
-A Job Application Shortlisting Tool
-✅ Completed: A smart Resume & Cover Letter Generator with interview prep
+📫 Connect:
+🌐 [Portfolio](https://tonnyportfolio.vercel.app/) · 📧 [Email](tonnykip14@gmail.com)
 
-🛠 Tech stack I work with:
-Python · Django · Angular · TypeScript · Bootstrap · HTML/CSS · JavaScript · Flutter · React · Git/GitHub
-
-📫 Let’s connect:
-🌐 Portfolio [https://tonnyportfolio.vercel.app/] | 💼 LinkedIn | 📧 Email [tonnykip14@gmail.com]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonnietoroo&show_icons=true&theme=radical)
